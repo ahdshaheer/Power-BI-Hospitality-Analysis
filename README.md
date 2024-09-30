@@ -1,4 +1,4 @@
-# Power-BI-Hospitality-Analysis
+# Hospitality Analysis
 
 
 ##### Domain: Hospitality  
